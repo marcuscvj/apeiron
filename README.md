@@ -1,2 +1,2 @@
-# ipfs-kotlin
+# Space
 An IPFS implementation in Kotlin
